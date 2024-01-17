@@ -1,0 +1,5 @@
+nickname-generator
+pyfiglet
+asyncio
+aiohttp
+colorama
