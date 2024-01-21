@@ -19,7 +19,7 @@ async def register_account(password):
 	except Exception as e:
 		print(e)
 init()
-print(f"{Fore.BLUE} script by Dos-kun \n github:https://github.com/aminobotskek  \n{figlet_format('autoreg killa',font='rectangles')}")
+print(f"{Fore.BLUE} script by Dos-kun \n github:https://github.com/l0v3m0n3y  \n{figlet_format('autoreg killa',font='rectangles')}")
 password=input("password»")
 while True:
 	loop = asyncio.get_event_loop()
